@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calci {
+public class Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char choice;
